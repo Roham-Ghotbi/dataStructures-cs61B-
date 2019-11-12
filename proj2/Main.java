@@ -26,6 +26,7 @@ public class Main {
                 }
             }
             System.out.print(PROMPT);
+
         }
 
         in.close();
