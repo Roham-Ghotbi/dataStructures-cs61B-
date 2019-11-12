@@ -57,6 +57,6 @@ public class Database {
     }
 
     public String transact(String query) {
-        return "doodool tala";
+        return "Test";
     }
 }
